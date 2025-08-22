@@ -22,7 +22,7 @@ so let's create a simple bot that introduces itself
     It is often used to round down a floating-point number to the nearest whole number.
     Let's round down a number using Math.floor()
 
-3.  The Math.ceil() method rounds a number DOWN to the nearest integer
+3.  The Math.ceil() method rounds a number UP to the nearest integer
     It is often used to round up a floating-point number to the nearest whole number.
     Let's round up a number using Math.ceil()
 
