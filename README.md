@@ -1,5 +1,5 @@
-Build a MathBot - workshop by freeCodeCamp
-This bot will teach you about the Math object in JavaScript
+Build a MathBot - workshop by freeCodeCamp.
+This bot will teach you about the Math object in JavaScript.
 The Math object provides properties and methods for mathematical constants and functions.
 It is a built-in object in JavaScript and does not require any additional libraries or imports.
 
